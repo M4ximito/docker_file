@@ -3,11 +3,11 @@ Aby uruchomić image
 `docker build -t web100 .`
 
 Na pierwszym zrzucie ekranu widoczne wykonanie programu  
-![num1](1.jpg)  
+![num1](/screenshots/1.jpg)  
 
 
 Na pierwszym zrzucie ekranu widoczne nazwe kontenera 
-![num1](2.jpg)  
+![num1](/screenshots/2.jpg)  
    
 
 
