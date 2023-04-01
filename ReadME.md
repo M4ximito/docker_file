@@ -6,7 +6,7 @@ Na pierwszym zrzucie ekranu widoczne wykonanie programu
 ![num1](/screenshots/1.jpg)  
 
 
-Na drugim zrzucie ekranu widoczne nazwe kontenera 
+Na drugim zrzucie ekranu widoczne nazwe kontenera   
 ![num1](/screenshots/2.jpg)  
    
 
