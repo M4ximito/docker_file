@@ -2,13 +2,13 @@ Aby uruchomić image
 
 `docker build -t web100 .`
 
-Na pierwszym zrzucie ekranu  
+Na pierwszym zrzucie ekranu widoczne wykonanie programu  
 ![num1](1.jpg)  
-widoczne wykonanie programu  
 
-Na pierwszym zrzucie ekranu  
+
+Na pierwszym zrzucie ekranu widoczne nazwe kontenera 
 ![num1](2.jpg)  
-widoczne nazwe kontenera   
+   
 
 
 Liczba warstw w programie:
